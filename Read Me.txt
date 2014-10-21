@@ -1,0 +1,21 @@
+QCGUI_beta
+
+1.put the comps into
+"/Users/****/Library/Graphics/Quartz Composer Patches" 
+
+2. connect A patch&B patch
+
+3. connect "output value” to whatever you want to control
+
+4.”QCGUI options” index name component by “__” ,and the “index number” and the “index name” number must be the same
+
+5.recommended font “standard 07_58"
+
+6. all x,y,w,h are pixels based
+
+7.any comments,bug report sent to https://www.facebook.com/chengkaihsiung
+
+
+
+2014 NengHuo(能火) https://vimeo.com/user13976337
+
