@@ -17,5 +17,9 @@ QCGUI_beta
 
 
 
-2014 NengHuo(能火) https://vimeo.com/user13976337
+2014 NengHuo(能火) 
+
+https://github.com/nenghuo/QCGUI
+https://vimeo.com/user13976337
+
 
